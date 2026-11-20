@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://crossword-time.pamelatd27.workers.dev/sitemap.xml
